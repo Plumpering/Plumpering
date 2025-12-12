@@ -7,7 +7,3 @@
 
 </p>
  
-
-<p align="center">
-  <a href="https://plump.straw.page">strawpag + <a href="https://pronouns.cc/@plump">prnoun</a>
-</p>
